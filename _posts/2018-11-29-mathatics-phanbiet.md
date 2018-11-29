@@ -6,3 +6,4 @@ categories:
 tags:
 - Xác xuất
 ---
+Điều tiên mình đến với định nghĩa
